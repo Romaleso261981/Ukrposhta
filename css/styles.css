@@ -428,6 +428,92 @@
   border: 1px solid red;
 }
 
+/*секція branches-block*/
+
+.branches-block {
+  background: #fec524;
+}
+.branches-block__wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 500px;
+  padding: 90px 135px 50px 135px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.branches-block-content h3 {
+  display: flex;
+  width: 655.058px;
+  height: 57px;
+  margin-bottom: 36px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Rubik;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 125% */
+}
+.branches-block-content p {
+  display: flex;
+  width: 359.419px;
+  height: 22px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #0e2f4b;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 187.5% */
+}
+.branches-block-app h3 {
+  margin-top: 27px;
+}
+.branches-block-app h3 {
+  display: flex;
+  width: 197.713px;
+  height: 20px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  margin-bottom: 15px;
+  color: #0e2f4b;
+  font-family: Rubik;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px; /* 176.471% */
+}
+.branches-block-app-images {
+  display: flex;
+  gap: 20px;
+}
+.branches-block-social {
+}
+.branches-block-social h3 {
+  display: flex;
+  width: 69.867px;
+  height: 20px;
+  margin-top: 39px;
+  margin-bottom: 15px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #0e2f4b;
+  font-family: Rubik;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px; /* 176.471% */
+}
+.branches-block-social-images img {
+  margin-right: 20px;
+}
 /*секція footer*/
 
 .footer {
