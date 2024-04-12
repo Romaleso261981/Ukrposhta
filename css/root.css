@@ -30,7 +30,7 @@ body {
 
 /*налаштування адаптиву*/
 
-[class*="__container"] {
+.container {
   max-width: 52rem;
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
